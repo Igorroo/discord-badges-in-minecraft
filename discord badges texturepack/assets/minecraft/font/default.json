@@ -1,0 +1,49 @@
+{
+	"providers": [
+		{
+			"type": "bitmap",
+			"file": "minecraft:misc/badges/staff.png",
+			"ascent": 8,
+			"height": 8,
+			"chars": [
+				"\u0001"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "minecraft:misc/badges/moderator.png",
+			"ascent": 8,
+			"height": 8,
+			"chars": [
+				"\u0002"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "minecraft:misc/badges/boost.png",
+			"ascent": 8,
+			"height": 8,
+			"chars": [
+				"\u0003"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "minecraft:misc/badges/owner.png",
+			"ascent": 8,
+			"height": 8,
+			"chars": [
+				"\u0004"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "minecraft:misc/badges/dev.png",
+			"ascent": 8,
+			"height": 8,
+			"chars": [
+				"\u0005"
+			]
+		}
+	]
+}
